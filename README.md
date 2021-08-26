@@ -1,0 +1,1 @@
+This is Coral's first git project!
